@@ -2,8 +2,7 @@ const CACHE_NAME = 'note-app-v1';
 const ASSETS = [
   '/',
   '/index.html',
-  '/style.css',
-  '/app.js',
+
   '/icons/icon-192x192.png'
 ];
 
